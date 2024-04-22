@@ -1,0 +1,1 @@
+export const urlBack = 'https://bosanoga2.onrender.com'

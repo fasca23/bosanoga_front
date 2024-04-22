@@ -1,0 +1,45 @@
+.preloader {
+  margin: 10px auto 80px;  
+  position: relative;
+  width: 30px;
+  height: 30px;
+}
+.preloader span {
+  border: 0;
+  margin: 0;
+  width: 40%;
+  height: 40%;
+  position: absolute;
+  border-radius: 50%;
+  animation: spin 2s ease infinite;
+}
+.preloader :first-child {
+  background: #21eb0b;
+  animation-delay: -1.5s;
+}
+.preloader :nth-child(2) {
+  background: #f00726;
+  animation-delay: -1s;
+}
+.preloader :nth-child(3) {
+  background: #aed52c;
+  animation-delay: -0.5s;
+}
+.preloader :last-child {
+  background: #2084c6;
+}
+@keyframes spin {
+  0%,
+  100% {
+    transform: translate(0);
+  }
+  25% {
+    transform: translate(160%);
+  }
+  50% {
+    transform: translate(160%, 160%);
+  }
+  75% {
+    transform: translate(0, 160%);
+  }
+}
