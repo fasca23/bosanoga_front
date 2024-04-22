@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bosanoga_front/static/css/main.c57ab885.css",
+    "main.js": "/bosanoga_front/static/js/main.89bf58b2.js",
+    "static/media/banner.jpg": "/bosanoga_front/static/media/banner.5fd2c60d58a8686daee0.jpg",
+    "static/media/footer-sprite.png": "/bosanoga_front/static/media/footer-sprite.b3d5697aeb76ce9f8002.png",
+    "static/media/cart.svg": "/bosanoga_front/static/media/cart.267ecc2142a1eba847168305a519a978.svg",
+    "static/media/cart-empty.svg": "/bosanoga_front/static/media/cart-empty.a3e8b923529eb77e4d4d701a4f3ac54f.svg",
+    "static/media/not-found.svg": "/bosanoga_front/static/media/not-found.ff98fa991a79392d4a5d46d8b6b26d44.svg",
+    "static/media/error.svg": "/bosanoga_front/static/media/error.215cebec5144777a3b339ae6724a14c6.svg",
+    "static/media/noun-not-found.svg": "/bosanoga_front/static/media/noun-not-found.4c956398c9c1067fa5bd383f461881ca.svg",
+    "index.html": "/bosanoga_front/index.html",
+    "main.c57ab885.css.map": "/bosanoga_front/static/css/main.c57ab885.css.map",
+    "main.89bf58b2.js.map": "/bosanoga_front/static/js/main.89bf58b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c57ab885.css",
+    "static/js/main.89bf58b2.js"
+  ]
+}
